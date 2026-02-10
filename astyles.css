@@ -1,9 +1,37 @@
 .top-style {
-    font-family:Impact,sans-serif;
-    background: #2f2f2f;
-    color: #ffffff00;
+    font-family: Times, serif;
+    color: #ffffff;
+    background: #817e7e;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-bottom: 20px;
 }
 
 .fade {
     font-family: Helvetica, sans-serif;
+    padding-left: 25px;
+}
+
+.readable {
+    border-radius: 18px;
+    border-color:#ffffff;
+    background: #6d6969;
+    padding: 10px 15px;
+    max-width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    background: #000000;
+    color: #ffffff;
+}
+
+a {
+    color: #ffff;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #313030;
 }
