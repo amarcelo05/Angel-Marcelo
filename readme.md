@@ -8,3 +8,6 @@ is117angelfirst/
         js/
             scripts.js
     package.json
+    asdasd
+
+    ssssss
